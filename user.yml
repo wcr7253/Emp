@@ -9,7 +9,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
   redis: 
     host: 175.24.78.152
-name: wcrss
+name: wcr
 
 mybatis-plus:
   configuration:
